@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+    <title>Posts</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header><h1>My blog</h1></header>
+    <div class="wrap">
+    <% posts.forEach((element)=>{ %>
+
+
+    <article class="post">
+        <div class="time">
+            <span class="date"><%= element.date %></span>
+            <span class="hour"><%= element.hour %></span>
+        </div>
+        <div class="content">
+            <h3 class="title"><%= element.title %></h3>
+            <p class="body">
+                <%= element.body %>
+            </p>
+    </div>
+    </article>
+    <% }); %>
+</div>
+</body>
+</html>

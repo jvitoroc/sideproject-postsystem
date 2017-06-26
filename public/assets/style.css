@@ -1,0 +1,28 @@
+
+.wrap{
+    width:100%;
+    max-width: 600px;
+}
+
+.post{
+    border-bottom: 1px gray solid;
+    padding-bottom: 10px;
+}
+
+.post .title, .body{
+    margin: 0;
+}
+
+.post .title{
+    margin-bottom: 15px;
+}
+
+.post .time{
+    display: flex;
+    justify-content: flex-end;
+    color:gray;
+}
+
+.post .time .date{
+    margin-right: 5px;
+}

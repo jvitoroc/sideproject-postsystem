@@ -1,0 +1,16 @@
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.dll
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.xml
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\joao_\OneDrive\Documentos\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
